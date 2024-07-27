@@ -16,4 +16,5 @@ When a user inputs the passenger details in the Streamlit web application, the t
  1.Historical Analysis: It allows users to explore and understand the historical data related to the Titanic disaster, and how different factors influenced the survival of passengers.
  2.Decision Support: It can be used as a decision support tool for understanding the potential survival outcomes based on passenger details, which can be valuable in certain scenarios.
  3.Educational Purposes: It can serve as an educational tool to demonstrate the application of machine learning in predicting survival outcomes based on historical data.
+
 In summary, building a predictive model for Titanic survival and creating a Streamlit web application to interactively predict survival likelihood based on passenger details is a practical application of data science and machine learning techniques.
